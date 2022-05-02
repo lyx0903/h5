@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>xh</title>
+    <g id="xh" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M6,22 C6,17.581722 9.88872674,16 14.6857143,16 L44,16" id="路径" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M6,34 C6,29.581722 9.88872674,28 14.6857143,28 L44,28" id="路径备份-2" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" transform="translate(25.000000, 31.000000) scale(-1, -1) translate(-25.000000, -31.000000) "></path>
+        <line x1="37" y1="10" x2="44" y2="16" id="路径" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></line>
+        <line x1="6" y1="34" x2="14" y2="40" id="路径备份" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></line>
+        <rect id="矩形" fill="#FFFFFF" x="23" y="21" width="4" height="8" rx="2"></rect>
+    </g>
+</svg>

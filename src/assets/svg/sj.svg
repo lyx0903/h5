@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>sj</title>
+    <g id="sj" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M6,16 L13.0853644,16 C16.565952,16 19.7961577,17.8097776 21.6136751,20.7781308 L26.7837608,29.2218692 C28.6012782,32.1902224 31.8314839,34 35.3120715,34 L44,34 L44,34" id="路径-2" stroke="#FFFFFF" stroke-width="4"></path>
+        <path d="M6,16 L14.1741426,16 C17.4939158,16 20.5972769,17.647501 22.4572452,20.3973031 L28.6837805,29.6026969 C30.5437487,32.352499 33.6471099,34 36.966883,34 L44,34 L44,34" id="路径-2备份" stroke="#FFFFFF" stroke-width="4" transform="translate(25.000000, 25.000000) scale(-1, 1) translate(-25.000000, -25.000000) "></path>
+        <line x1="36" y1="10" x2="44" y2="16" id="路径备份-3" stroke="#FFFFFF" stroke-width="4"></line>
+        <line x1="37" y1="34" x2="43.902439" y2="40" id="路径备份-4" stroke="#FFFFFF" stroke-width="4" transform="translate(40.451220, 37.000000) scale(-1, 1) translate(-40.451220, -37.000000) "></line>
+    </g>
+</svg>

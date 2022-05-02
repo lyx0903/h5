@@ -4,6 +4,12 @@ import router from './router'
 import store from './store'
 import 'animate.css';
 import "./styles/index.scss"
+import 'vant/lib/index.css';
+
+import { Toast, Slider } from 'vant';
+
+Vue.use(Toast);
+Vue.use(Slider);
 
 
 Vue.config.productionTip = false

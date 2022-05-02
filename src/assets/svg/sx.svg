@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>sx</title>
+    <g id="sx" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="编组" transform="translate(6.000000, 10.000000)" stroke="#FFFFFF" stroke-width="4">
+            <path d="M0,6 C3.10915859,6 15.7758253,6 38,6" id="路径备份-2"></path>
+            <path d="M0,24 C3.10915859,24 15.7758253,24 38,24" id="路径备份-4"></path>
+            <line x1="31" y1="-1.66533454e-16" x2="38" y2="6" id="路径备份-3"></line>
+            <line x1="31" y1="24" x2="38" y2="30" id="路径备份-5" transform="translate(34.951220, 27.000000) scale(1, -1) translate(-34.951220, -27.000000) "></line>
+        </g>
+    </g>
+</svg>
